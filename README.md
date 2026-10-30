@@ -193,6 +193,3 @@ Feedstock Maintainers
 
 * [@julia-jurkowska](https://github.com/julia-jurkowska/)
 
-
-<!-- dummy commit to enable rerendering -->
-
